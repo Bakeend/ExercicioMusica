@@ -53,7 +53,7 @@ Antes de começar, tenha instalado:
 
 ### 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-de-musicas.git
+git clone https://github.com/Bakeend/ExercicioMusica.git
 ```
 
 ### 2. Acesse o diretório:
